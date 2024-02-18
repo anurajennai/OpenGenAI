@@ -22,3 +22,9 @@ Charter
 7. Open Collaboration to Generate Ideas and Implement Practical Applications of Generative AI: Create platforms and forums for brainstorming and implementing practical applications of generative AI in contexts relevant to India and the developing world. This includes addressing challenges in healthcare, education, agriculture, and local governance.
 
 8. Inclusion of Policymakers, Academia, and General Populace: Actively involve policymakers, academic institutions, and the general public in these collaborative efforts. This inclusion will ensure the development of AI technologies is aligned with public policy, educational objectives, and the needs of the broader populace, fostering widespread adoption and understanding.
+
+9. Ensure robust security, strict data privacy, and AI safety in the India Gen AI Stack, adhering to India's data protection regulations, international best practices, and ethical AI guidelines to safeguard user information, maintain trust, and prevent harmful outcomes.
+
+10. Incorporate Accessibility and inclusivity measures  in the India Gen AI Stack to ensure AI technologies are accessible to non-literate and disabled users, adhering to principles of universal design and compatibility with assistive technologies.
+
+
