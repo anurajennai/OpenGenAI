@@ -33,5 +33,8 @@ The operational framework provides a set of frameworks, guidelines, and rules th
 
 1. Community Engagement and Contribution Model: A structured model for community engagement and contributions is vital for the sustainability and growth of the dataset repository. This model encourages active participation from a diverse group of stakeholders, including academia, industry, and the developer community, fostering a collaborative ecosystem for AI innovation.
 
+## Challenges
+_To be updated_
+
 # License 
 As per the parent license.
