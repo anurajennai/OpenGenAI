@@ -1,0 +1,27 @@
+#Dataset Guidelines and Formats
+
+## 1. Data Selection
+High Relevance, Quality and Diversity
+
+## 2. Pre Processing
+Cleaning, Tokenisation and Filtering
+
+## 3. Formatting
+Pairing: For Q&A, Summarisation etc, pair like Question and Answer
+Packing: Collate multuiple data points to longer sequences
+
+
+## 4. Data Augmentation - Creating synthetic Data to improve model robsutness and biases.
+
+
+## 5. Version Control 
+
+## Hugging Face Data Prepartion
+
+### Tokenisation for text data
+###Formatting
+['input_ids', 'token_type_ids', 'attention_mask', 'label'] - For PyTorch
+###Resampling 
+For audio for uniformity - say 16Khz
+###Augmentation  
+For images - Adjust size, move all to RGB space etc. 
